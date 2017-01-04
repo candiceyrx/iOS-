@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "afea2739-b1fe-a841-ba7e-4db205294221++3248" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "afea2739-b1fe-a841-ba7e-4db205294221++3248" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3459E8DF-1DDA-4E44-B09F-B562859A0425",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "afea2739-b1fe-a841-ba7e-4db205294221++3248" : "..\/Desktop\/%E5%A4%AA%E6%9E%81%E5%AE%B6%E5%9B%AD\/%E5%A4%AA%E6%9E%81%E9%97%A8%E6%88%B7-iOS"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ios加密",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ios加密.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/mausvn.smartdot.com.cn:8013\/svn\/mau",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "afea2739-b1fe-a841-ba7e-4db205294221++3248"
+    }
+  ]
+}
